@@ -157,6 +157,7 @@
             this.Controls.Add(this.lblCont);
             this.Controls.Add(this.lblUser);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmFormulario";
