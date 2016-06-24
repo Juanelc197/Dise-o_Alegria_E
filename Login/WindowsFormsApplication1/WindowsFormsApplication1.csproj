@@ -61,6 +61,24 @@
     <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="prueba\prueba diseño 1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prueba\prueba diseño 1.Designer.cs">
+      <DependentUpon>prueba diseño 1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prueba\prueba diseño 2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prueba\prueba diseño 2.Designer.cs">
+      <DependentUpon>prueba diseño 2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prueba\prueba diseño 3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prueba\prueba diseño 3.Designer.cs">
+      <DependentUpon>prueba diseño 3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Registro.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -79,6 +97,15 @@
     <EmbeddedResource Include="obj\Debug\WindowsFormsApplication1.Login.resources" />
     <EmbeddedResource Include="obj\Debug\WindowsFormsApplication1.MP.resources" />
     <EmbeddedResource Include="obj\Debug\WindowsFormsApplication1.Properties.Resources.resources" />
+    <EmbeddedResource Include="prueba\prueba diseño 1.resx">
+      <DependentUpon>prueba diseño 1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prueba\prueba diseño 2.resx">
+      <DependentUpon>prueba diseño 2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prueba\prueba diseño 3.resx">
+      <DependentUpon>prueba diseño 3.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Registro.resx">
       <DependentUpon>Registro.cs</DependentUpon>
     </EmbeddedResource>
