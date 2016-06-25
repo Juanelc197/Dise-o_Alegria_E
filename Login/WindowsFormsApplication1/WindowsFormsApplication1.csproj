@@ -156,6 +156,7 @@
     <None Include="bin\Debug\WindowsFormsApplication1.exe.config" />
     <None Include="bin\Debug\WindowsFormsApplication1.vshost.exe.config" />
     <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache" />
@@ -183,6 +184,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />
+    <Folder Include="Ejemplo\" />
     <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
