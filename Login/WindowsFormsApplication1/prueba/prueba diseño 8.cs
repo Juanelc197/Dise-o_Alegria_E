@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1.prueba
 {
-    public partial class prueba_diseño_3 : Form
+    public partial class prueba_diseño_8 : Form
     {
-        public prueba_diseño_3()
+        public prueba_diseño_8()
         {
             InitializeComponent();
-        }
-
-        private void tabPage1_Layout(object sender, LayoutEventArgs e)
-        {
-
         }
     }
 }
