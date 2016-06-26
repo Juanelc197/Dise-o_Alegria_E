@@ -16,7 +16,7 @@ namespace WindowsFormsApplication1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new prueba.prueba_diseño_4());
+            Application.Run(new Login());
         }
     }
 }

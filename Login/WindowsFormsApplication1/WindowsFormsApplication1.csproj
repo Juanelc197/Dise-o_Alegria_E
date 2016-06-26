@@ -141,6 +141,9 @@
     <EmbeddedResource Include="prueba\prueba diseño 4.resx">
       <DependentUpon>prueba diseño 4.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="prueba\prueba diseño 5.resx">
+      <DependentUpon>prueba diseño 5.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Registro.resx">
       <DependentUpon>Registro.cs</DependentUpon>
     </EmbeddedResource>
