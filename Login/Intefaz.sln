@@ -27,6 +27,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite6", "..\..\..\..\Doc
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "5312"
+		SlnRelativePath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\WebSite6\"
 		DefaultWebSiteLanguage = "Visual Basic"
 	EndProjectSection
 EndProject
