@@ -25,10 +25,13 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite7", "..\..\..\..\Doc
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "5984"
+		SlnRelativePath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\WebSite7\"
 		DefaultWebSiteLanguage = "Visual Basic"
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{15A438DB-43FE-499A-9A51-EC4F89EB0927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,6 +55,10 @@ Global
 		{15A438DB-43FE-499A-9A51-EC4F89EB0927}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15A438DB-43FE-499A-9A51-EC4F89EB0927}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15A438DB-43FE-499A-9A51-EC4F89EB0927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
