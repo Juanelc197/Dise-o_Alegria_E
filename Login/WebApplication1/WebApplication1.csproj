@@ -126,6 +126,7 @@
     <Content Include="images\pic02.jpg" />
     <Content Include="images\pic03.jpg" />
     <Content Include="images\pic04.jpg" />
+    <Content Include="index.aspx" />
     <Content Include="index.html" />
     <Content Include="js\init.js" />
     <Content Include="js\jquery.dropotron.min.js" />
@@ -140,6 +141,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
