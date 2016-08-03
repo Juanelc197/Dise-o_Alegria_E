@@ -102,6 +102,9 @@
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="ir-arriba\fonts\icomoon.eot" />
+    <Content Include="ir-arriba\fonts\icomoon.ttf" />
+    <Content Include="ir-arriba\fonts\icomoon.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -122,12 +125,18 @@
     <Content Include="css\style-wide.css" />
     <Content Include="css\style.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="images\18.ico" />
     <Content Include="images\pic01.jpg" />
     <Content Include="images\pic02.jpg" />
     <Content Include="images\pic03.jpg" />
     <Content Include="images\pic04.jpg" />
     <Content Include="index.aspx" />
     <Content Include="index.html" />
+    <Content Include="ir-arriba\arribaa.js" />
+    <Content Include="ir-arriba\estiloss.css" />
+    <Content Include="ir-arriba\fontss.css" />
+    <Content Include="ir-arriba\fonts\icomoon.svg" />
+    <Content Include="ir-arriba\jquery-latest.js" />
     <Content Include="js\init.js" />
     <Content Include="js\jquery.dropotron.min.js" />
     <Content Include="js\jquery.min.js" />
