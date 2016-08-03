@@ -29,8 +29,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite7", "..\..\..\..\Doc
 		DefaultWebSiteLanguage = "Visual Basic"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{15A438DB-43FE-499A-9A51-EC4F89EB0927}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alegria Enbotellada", "WebApplication1\Alegria Enbotellada.csproj", "{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}"
 EndProject
 Global
@@ -51,10 +49,6 @@ Global
 		{F56DE58E-811C-4034-AA26-A29FA56107CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F56DE58E-811C-4034-AA26-A29FA56107CC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{F56DE58E-811C-4034-AA26-A29FA56107CC}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{15A438DB-43FE-499A-9A51-EC4F89EB0927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15A438DB-43FE-499A-9A51-EC4F89EB0927}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{15A438DB-43FE-499A-9A51-EC4F89EB0927}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{15A438DB-43FE-499A-9A51-EC4F89EB0927}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5075DF1A-595B-4FB6-9417-9E5AF56AFA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
